@@ -74,9 +74,27 @@ Sites rápidos e responsivos para comércios locais (DF Max Variedades, Referên
 <td width="50%" valign="top">
 
 #### ⚙️ ByteForge
-Projeto público do laboratório: experimentos e páginas em HTML.
+Site multi-página de uma loja de informática fictícia: catálogo com filtros, conta do cliente com rastreio simulado e central de dúvidas, em HTML, CSS e JS puros.
 
 <a href="https://github.com/ELopes00/ByteForge"><img src="https://img.shields.io/badge/ABRIR_REPOSIT%C3%93RIO-0b0c1f?style=flat-square&logo=github&logoColor=00f0ff"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⏱️ SaldoHoras-TJ
+Banco de horas de plantões e folgas compensatórias: cálculo automático, débito por exercício, importação de planilha e perfis de servidor e RH.
+
+<img src="https://img.shields.io/badge/JavaScript-0b0c1f?style=flat-square&logo=javascript&logoColor=00f0ff"/> <img src="https://img.shields.io/badge/Firestore-0b0c1f?style=flat-square&logo=firebase&logoColor=00f0ff"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚽ ApostaBem
+Simulador de apostas de futebol: probabilidades por modelo de Poisson, histórico com gráficos e resumo diário no Telegram via GitHub Actions.
+
+<img src="https://img.shields.io/badge/Python-0b0c1f?style=flat-square&logo=python&logoColor=7c5cff"/> <img src="https://img.shields.io/badge/GitHub_Actions-0b0c1f?style=flat-square&logo=githubactions&logoColor=7c5cff"/> <img src="https://img.shields.io/badge/Telegram-0b0c1f?style=flat-square&logo=telegram&logoColor=7c5cff"/>
 
 </td>
 </tr>
